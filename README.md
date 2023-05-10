@@ -32,5 +32,8 @@ Son yapılan işlemler takip edilebilecek. Bu ekranda en popüler kitap gözüke
 **--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--
 
 Login ekranı yapıldı = OK
+
 Anasayfa Menü Çubuğu = Tam değil
+
 Kitap Stok Bilgi Ekranı = Basit ve Tam Değil
+
