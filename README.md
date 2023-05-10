@@ -23,3 +23,14 @@ Verilmiş Pasif kitapların hangi üyede olduğu kontrol edilebilecek.
 SON YAPILAN İŞLEMLER
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Son yapılan işlemler takip edilebilecek. Bu ekranda en popüler kitap gözükebilir. //Net değil ekleme ihtimalim var.
+
+
+
+
+=> Yapılan ilerlemeler...
+
+**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--**--
+
+Login ekranı yapıldı = OK
+Anasayfa Menü Çubuğu = Tam değil
+Kitap Stok Bilgi Ekranı = Basit ve Tam Değil
